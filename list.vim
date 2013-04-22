@@ -39,7 +39,7 @@ Bundle 'sjl/gundo.vim'
 Bundle 'scrooloose/syntastic'
 Bundle 'tpope/vim-fugitive'
 Bundle 'nathanaelkane/vim-indent-guides'
-Bundle 'rainbow_parentheses.vim'
+Bundle 'kien/rainbow_parentheses.vim'
 
 " front end utils
 Bundle 'vim-scripts/closetag.vim'

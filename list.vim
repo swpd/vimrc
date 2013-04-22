@@ -50,7 +50,6 @@ Bundle 'kchmck/vim-coffee-script'
 
 " color scheme
 Bundle 'altercation/vim-colors-solarized'
-Bundle 'sickill/vim-monokai'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'tomasr/molokai'
 Bundle 'nanotech/jellybeans.vim'

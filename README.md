@@ -1,0 +1,4 @@
+vimrc
+=====
+
+swpd's vimrc

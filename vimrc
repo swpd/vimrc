@@ -69,6 +69,9 @@ set smartcase
 set incsearch
 set ignorecase
 
+"NERDTree
+let NERDTreeIgnore = ['\.o$','\.pyc$']
+
 "powerline status
 set showcmd
 set laststatus=2

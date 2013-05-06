@@ -70,7 +70,7 @@ set incsearch
 set ignorecase
 
 "NERDTree
-let NERDTreeIgnore = ['\.o$','\.pyc$']
+let NERDTreeIgnore = ['\.o$','\.pyc$','^cscope']
 
 "powerline status
 set showcmd

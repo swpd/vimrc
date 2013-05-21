@@ -40,6 +40,7 @@ Bundle 'scrooloose/syntastic'
 Bundle 'tpope/vim-fugitive'
 Bundle 'nathanaelkane/vim-indent-guides'
 Bundle 'kien/rainbow_parentheses.vim'
+Bundle 'tpope/vim-abolish'
 
 " front end utils
 Bundle 'vim-scripts/closetag.vim'

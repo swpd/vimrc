@@ -173,5 +173,8 @@ nnoremap <Leader>a :Ack
 "Rainbow parentheses
 nnoremap <Leader>r :RainbowParenthesesToggle<CR>
 
+"cscope
+nnoremap <Leader>h :!cscope -Rbq<CR> :cs reset<CR><CR>
+
 "syntastic
 let g:syntastic_auto_loc_list=1

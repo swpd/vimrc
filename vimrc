@@ -179,3 +179,6 @@ nnoremap <Leader>h :!cscope -Rbq<CR> :cs reset<CR><CR>
 
 "syntastic
 let g:syntastic_auto_loc_list=1
+
+"delimitMate
+let delimitMate_expand_cr=1

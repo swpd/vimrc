@@ -6,7 +6,7 @@ Bundle 'gmarik/vundle'
 Bundle 'Shougo/neocomplcache'
 Bundle 'garbas/vim-snipmate'
 Bundle 'honza/vim-snippets'
-Bundle 'mattn/zencoding-vim'
+Bundle 'mattn/emmet-vim'
 Bundle 'Rip-Rip/clang_complete'
 Bundle 'davidhalter/jedi-vim'
 " snipmate dependencies

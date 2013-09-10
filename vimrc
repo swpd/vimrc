@@ -67,7 +67,7 @@ set history=1024
 set showmatch
 set smartcase
 set incsearch
-set hlsearch
+"set hlsearch
 set ignorecase
 
 "NERDTree

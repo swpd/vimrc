@@ -26,7 +26,6 @@ Bundle 'godlygeek/tabular'
 " project management
 Bundle 'scrooloose/nerdtree'
 Bundle 'majutsushi/tagbar'
-Bundle 'humiaozuzu/TabBar'
 
 " fast locating
 Bundle 'mileszs/ack.vim'

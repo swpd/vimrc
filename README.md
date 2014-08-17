@@ -14,7 +14,7 @@ create symbol link to `~/.vim/vimrc`:
 
 install `vundle`:
 
-    git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/
+    git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 install bundles:
 

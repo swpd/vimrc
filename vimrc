@@ -177,6 +177,9 @@ nnoremap <Leader>r :RainbowParenthesesToggle<CR>
 "cscope
 nnoremap <Leader>h :!cscope -Rbq<CR> :cs reset<CR><CR>
 
+"paste
+nnoremap <Leader>p :set paste!<CR>
+
 "syntastic
 let g:syntastic_auto_loc_list=1
 

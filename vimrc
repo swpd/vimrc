@@ -64,6 +64,9 @@ set smartcase
 "write with sudo
 cmap w!! w !sudo tee >/dev/null %
 
+"strip trailing spaces
+noremap ;s :%s/\s\+//g<CR>
+
 "set comma as leader key
 let mapleader=","
 

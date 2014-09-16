@@ -11,6 +11,9 @@ source ~/.vim/list.vim
 filetype plugin indent on
 syntax on
 
+"clipboard
+set clipboard=unnamed
+
 "indentation
 set autoindent
 set smartindent
